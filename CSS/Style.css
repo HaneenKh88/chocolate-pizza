@@ -1,0 +1,23 @@
+body
+{
+width: 1100px;
+   margin: 0 , auto;
+}
+
+.DivLogo
+{
+    display: inline-block;
+    margin: 2px 0 0 0;
+    
+}
+
+#HeadLogo
+{
+  
+   margin: 0 0 auto 0;
+}
+
+h1
+{
+    font-family: 'Dancing Script', cursive;
+}
